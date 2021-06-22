@@ -1,5 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
+Integrantes:
+* Jose Vicente Rincón Celis - 202013321 - j.rinconc@uniandes.edu.co
+* Juan Esteban Arboleda Restrepo - 201921578 - j.arboleda@uniandes.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
